@@ -6,12 +6,9 @@
 Imput | Zorin and Barr [1] | Shih et al. [2] | Ours
 --- | --- | --- | ---
 ![](images/com/002.jpg) | ![](images/other_com/002_1.jpg) | ![](images/other_com/002_2.jpg) | ![](images/outs_com/002_ours.jpg)
-
-
-<img src="https://github.com/nhduong/image_distortion/raw/master/1.gif" width="300"/> <img src="https://github.com/nhduong/image_distortion/raw/master/1_local.gif" width="300"/>    
-
-<img src="https://github.com/nhduong/image_distortion/raw/master/2.gif" width="300"/> <img src="https://github.com/nhduong/image_distortion/raw/master/2_local.gif" width="300"/>    
-
-<img src="https://github.com/nhduong/image_distortion/raw/master/3.gif" width="300"/> <img src="https://github.com/nhduong/image_distortion/raw/master/3_local.gif" width="300"/>    
-
-<img src="https://github.com/nhduong/image_distortion/raw/master/4.gif" width="300"/> <img src="https://github.com/nhduong/image_distortion/raw/master/4_local.gif" width="300"/>    
+![](images/com/001.jpg) | ![](images/other_com/001_1.jpg) | ![](images/other_com/001_2.jpg) | ![](images/outs_com/001_ours.jpg)
+    
+Imput | Zorin and Barr [1] | Shih et al. [2] | Ours
+--- | --- | --- | ---
+![](images/com/002.jpg) | ![](images/other_com/002_1.jpg) | ![](images/other_com/002_2.jpg) | ![](images/outs_com/002_ours.jpg)
+![](images/com/001.jpg) | ![](images/other_com/001_1.jpg) | ![](images/other_com/001_2.jpg) | ![](images/outs_com/001_ours.jpg)
