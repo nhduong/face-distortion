@@ -38,4 +38,5 @@ Imput | Stereographic Projection | Mercator Projection | Pannini Projection [7] 
 [3] Samsung, “About shape correction,” https://www.samsung.com/nz/support/mobiledevices/galaxy-s7-about-shape-correction/, 2017.  
 [4] Chintan Intwala and Aseem Agarwala, “Perspective warp,” US Patent 9,117,253, 2015.  
 [5] DxO, “Dxo viewpoint features,” https://www.dxo.com/dxo-viewpoint/features/, 2015.  
-[6] M. A. Tehrani, A. Majumder, and M. Gopi, “Correcting perceived perspective distortions using object specific planar transformations,” International Conference on Computational Photography (ICCP), 2016, p. 1–10.
+[6] M. A. Tehrani, A. Majumder, and M. Gopi, “Correcting perceived perspective distortions using object specific planar transformations,” International Conference on Computational Photography (ICCP), 2016, p. 1–10.  
+[7] Thomas K. Sharpless, Bruno Postle, and Daniel M. German, “Pannini: A new projection for rendering wide angle perspective images,” in Proceedings of the Sixth International Conference on Computational Aesthetics in Graphics, Visualization and Imaging, 2010, p. 9–16.
