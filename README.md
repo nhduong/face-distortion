@@ -5,6 +5,7 @@
   
 [1] ...  
 [2] ...  
+
 Imput | Zorin and Barr [1] | Shih et al. [2] | Ours
 --- | --- | --- | ---
 ![](images/com/002.jpg) | ![](images/other_com/002_1.jpg) | ![](images/other_com/002_2.jpg) | ![](images/outs_com/002_ours.jpg)
@@ -13,6 +14,7 @@ Imput | Zorin and Barr [1] | Shih et al. [2] | Ours
     
 [3] ...  
 [4] ...  
+
 Imput | Zorin and Barr [1] | Shih et al. [2] | Ours
 --- | --- | --- | ---
 ![](images/com/002.jpg) | ![](images/other_com/002_1.jpg) | ![](images/other_com/002_2.jpg) | ![](images/outs_com/002_ours.jpg)
