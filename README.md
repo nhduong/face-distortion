@@ -3,10 +3,9 @@
 ![CPU](https://img.shields.io/badge/CPU-red.svg)
 
 
-Imput | Zorin and Barr [1] | Shih et al. [2] | Ours |
---- | --- | ---
-![](images/com/002.jpg) | ![](images/other_com/002_1.jpg) | ![](images/outs_com/002_ours.jpg) | 
-1 | 2 | 3 | 4 |
+Imput | Zorin and Barr [1] | Shih et al. [2] | Ours
+--- | --- | --- | ---
+![](images/com/002.jpg) | ![](images/other_com/002_1.jpg) | ![](images/outs_com/002_ours.jpg)
 
 
 <img src="https://github.com/nhduong/image_distortion/raw/master/1.gif" width="300"/> <img src="https://github.com/nhduong/image_distortion/raw/master/1_local.gif" width="300"/>    
