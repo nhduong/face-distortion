@@ -29,6 +29,10 @@ Imput | Tehrani et al. [6] | Shih et al. [2] | Ours
 --- | --- | --- | ---
 ![](images/com/004.jpg) | ![](images/other_com/004_1.jpg) | ![](images/other_com/004_2.jpg) | ![](images/outs_com/004_ours.jpg)
     
+Imput | Stereographic Projection | Mercator Projection | Pannini Projection [7] | Shih et al. [2] | Ours
+--- | --- | --- | --- | --- | ---
+![](images/imgs/001.jpg) | ![](images/other_imgs/001_1.jpg) | ![](images/other_imgs/001_2.jpg)  | ![](images/other_imgs/001_3.jpg) | ![](images/other_imgs/001_4.jpg) | ![](images/outs/001_ours.jpg)
+    
 [1] Denis Zorin and Alan H. Barr, “Correction of geometric perceptual distortions in pictures,” in SIGGRAPH, 1995, p. 257–264.  
 [2] YiChang Shih, Wei-Sheng Lai, and Chia-Kai Liang, “Distortion-free wide-angle portraits on camera phones,” ACM Transactions on Graphics, vol. 38, no. 4, 2019.  
 [3] Samsung, “About shape correction,” https://www.samsung.com/nz/support/mobiledevices/galaxy-s7-about-shape-correction/, 2017.  
