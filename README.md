@@ -3,9 +3,10 @@
 ![CPU](https://img.shields.io/badge/CPU-red.svg)
 
 
-|hello|hi|
-----------
-|haha|hehe|
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 
 <img src="https://github.com/nhduong/image_distortion/raw/master/1.gif" width="300"/> <img src="https://github.com/nhduong/image_distortion/raw/master/1_local.gif" width="300"/>    
