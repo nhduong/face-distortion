@@ -5,7 +5,7 @@
 
 Markdown | Less | Pretty
 --- | --- | ---
-<img src="https://github.com/nhduong/image_distortion/raw/master/1.gif" | `renders` | ![](1.gif)
+<img src="https://github.com/nhduong/image_distortion/raw/master/1.gif" | `renders` | ![](images/com/002.jpg)
 1 | 2 | 3
 
 
